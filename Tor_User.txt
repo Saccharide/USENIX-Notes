@@ -1,0 +1,41 @@
+Tor servuces provide server anominity
+
+
+how do user interact with onion services.
+
+Background:
+.onion, special-user domain
+not reolved DNS, delocalized hash table
+jbase 32-encodeded hash over RSA public key
+
+http://expyuzz4wqqyqhjn.onion
+
+
+
+Onion services are self authenticating
+
+Both client and server are anonymous
+
+
+while onion services provide anaymith benefits, they are not perfect.
+
+    Susecptibel to traffic analysis atacks
+    configuration errors
+    Usability issues
+
+
+Methods:
+    
+    Interviews
+       17, diverse backgrounds 
+    Survey
+        N = 417
+
+    DNS B Root Data
+
+DOES NOT ADD UP TO 100% page 34
+
+Results:
+
+
+Future Durections:
