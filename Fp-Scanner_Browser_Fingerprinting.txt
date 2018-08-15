@@ -1,0 +1,83 @@
+Browser Fingerprinting:
+
+stateless tracking technique
+
+combination of atributes from the browser
+User agent
+
+Screen resolution
+Canvas
+
+
+Defense against 
+
+script blocking
+attribute blocking
+attribute switching wiht rpre exisint valuses
+Attribyte blurring
+
+Finger printer may try ti detect countermeasure
+
+Augur
+FingerprintJS2
+Security fingerprinting
+
+Real config
+vabigator.userAgent Windows 10
+navigator.plaform = Linux
+
+Verify if attributes of a fingerprint have been modifigied 
+
+OS,browser,device, canvas
+
+Verify OS
+- Navigator.platform
+0 WebGL
+
+OS vs Vendor with dictionary
+
+Errors messages are different with different browser
+
+eval.toString()
+
+
+Is it really a computer ir snartphobe
+
+
+Canvas Inconsistencise:
+Hight entropy
+High statibility
+
+Verify if toDAtaURL and getImageData overridden
+
+HTMLCanvasELement.protpye.toDataURL.toString();
+
+
+
+Recoverinng the OS:
+- combine plugin extensions, webGL,mdeia queres, fonts
+
+Reovering the bwoswer:
+- Family,
+- Version
+
+
+
+
+
+IMplications:
+
+Discrinmination
+Similar to twhat happens with anti-adblockers
+
+
+Trackability
+ can make the user more easily trackable
+ - Identigy the counter measure
+
+
+ Canvas Defeder:
+
+
+Fingerorinters can detec countermeasures usubg inconsistencies
+

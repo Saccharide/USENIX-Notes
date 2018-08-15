@@ -1,0 +1,23 @@
+who left open the cookie jar
+
+OpenEMR
+
+why you should keep an eye on your cookies?
+
+HTTPN cookies
+Implicit inclusion 
+Same-Origin Policy
+Authentaication / identification
+
+
+Third party cookies
+
+CSRF
+XSS
+Cross-site timing attacks
+
+Built-in browser policies can be bypassed
+- Same0site cookie, thrid-party plicies
+- Advanced iotuibm Firefox tracking
+
+wholeftopenthecookiejar.com
