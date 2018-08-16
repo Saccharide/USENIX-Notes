@@ -1,0 +1,38 @@
+Network Topology Obfuscation
+
+Link-flooding attacks (LFAs)
+
+target the infrasrtructure
+
+Require knowing the toplogy
+
+
+
+traceroute x :
+- to find the path of botnet to public server
+
+
+How to hide the topology,
+however this will make traceroute is an debugging tool.
+
+
+So the solution is to hide the parts of the topology
+
+how?
+See pictures
+
+
+
+Given the phytsical topology
+
+cinpyte a virtual toplogy
+
+
+
+
+Evaluated on 3 real topogies
+
+Abilene
+Switch
+US Carrier
+
