@@ -1,0 +1,23 @@
+Zero rating with three parties
+
+
+yes Fool the ISP with zero-rating services
+
+
+Free-riding attacks
+
+Threat Modle of Free-riding attacjs
+
+
+the clients are malicious,
+
+
+System Design
+
+
+Evaluation of ZFree
+is robust against
+    - Request Masquerade Attack
+    - Response Modification attack
+    - TCP generation
+
