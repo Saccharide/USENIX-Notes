@@ -1,0 +1,18 @@
+Tor congestion
+Tor circuit 
+
+Bandwidth Weight Path slection
+- Client slected weighted path selection ( High bandwidth = higher weight)
+
+
+Snader and Borisov
+3 mode
+0,
+9,
+15
+
+Congestion Aware Routing
+ Lowest trip time
+
+
+ 
