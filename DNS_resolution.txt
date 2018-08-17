@@ -1,0 +1,60 @@
+Potential Interceptor
+    ISP
+    Censorship/firewall
+    Anti-Virus
+    Enterprise Proxy
+
+How to globally measure the hidden DNS interceptopm
+What are the characteristic of the 
+
+
+
+Taxonomy request ony
+4 catergory
+    1) Normal resolution
+    2) Request redirection
+    3) Reuqeest replication
+    4) Direct responding
+
+
+Methodology
+
+How to detect?
+
+if they come for Public DNS,
+
+
+Global ANalysis
+User ProxyRackL: SOCKS5 residential proxy networks
+- Limistation: TCP traffic only
+
+Phase 2
+China-wide analysus
+Similar to Netalyzr
+-Capability TCP and UDP 
+
+
+DNS Request
+- Diverse and Controlled
+
+
+Identify Egress IP
+Ownershop of resolver IP
+
+RTT of requess
+    -Which requests complete faster
+    Request replication vs normal resolution  better
+
+
+
+Which request reach NS faster?
+ALl replicated request are slower than the noraml request
+
+
+Interception Motivation
+
+Vendors
+    - Routers
+    - Software platforms
+
+
